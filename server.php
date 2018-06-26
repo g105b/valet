@@ -1,4 +1,5 @@
 <?php
+// Pointless edit.
 
 /**
  * Define the user's "~/.valet" path.
